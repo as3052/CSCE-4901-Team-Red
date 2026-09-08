@@ -9,7 +9,7 @@ Team Red
 - Srijal Prajapati
 - Colin Baehr
 - Alffy Joseph
-- [Other Team Member]
+- Thelonious Brown
 
 ## Project Description
 This repository contains the source code, documentation, and project materials for Team Red's CSCE 4901 Capstone Project.
