@@ -7,7 +7,7 @@ Team Red
 ## Team Members
 - Anusha Shah
 - Srijal Prajapati
-- Colin Baehr
+- Colin Baeh
 - Alffy Joseph
 - Thelonious Brown
 
