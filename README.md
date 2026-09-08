@@ -8,6 +8,7 @@ Team Red
 - Anusha Shah
 - Srijal Prajapati
 - Colin Baehr
+- Alffy Joseph
 - [Other Team Member]
 
 ## Project Description
